@@ -1,0 +1,13 @@
+{
+    "Servers": {
+        "1": {
+            "Name": "Been Here PostGIS DB",
+            "Group": "Been Here",
+            "Host": "postgres",
+            "Port": 5432,
+            "MaintenanceDB": "been_here_db",
+            "Username": "beenhere",
+            "SSLMode": "prefer"
+        }
+    }
+}
